@@ -1,1 +1,1 @@
-Proyecto 2 pagina sobre Bitcoin
+Pagina web sobre Bitcoin
